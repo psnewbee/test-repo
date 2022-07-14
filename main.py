@@ -5,3 +5,5 @@ d = 4
 
 def smth():
     pass
+
+print('Hello, Ben')
